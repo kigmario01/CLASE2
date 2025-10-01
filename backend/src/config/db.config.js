@@ -4,6 +4,7 @@ module.exports = {
   PASSWORD: "root",
   DB: "crud_db",
   dialect: "mysql",
+  port: 3306,
   pool: {
     max: 5,
     min: 0,
